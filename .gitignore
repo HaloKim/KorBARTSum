@@ -1,0 +1,5 @@
+*.parquet
+022.요약문 및 레포트 생성 데이터/*
+.cache/
+models/*
+files2rouge
