@@ -3,3 +3,5 @@
 .cache/
 models/*
 files2rouge
+*.tsv
+*.json
